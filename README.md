@@ -30,35 +30,13 @@ Make a personal website based on modern HTML/CSS practices. Website can be a tem
 
 ## Class 1
 
-### Question
-What is HTML and CSS? What does it look like? How do I understand it?
+[Link](https://github.com/ADDA-HTML/Lessons/blob/master/class-1.md)
 
-### Process
-How do html files work together (file paths, links)? Review where HTML/CSS fit into web development. Go over the syntax and meaning of HTML (tags, attributes, values, and content). Introduce tools to review website’s HTML/CSS for editing/testing.
-
-### Resources
-- https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/What_will_your_website_look_like
-- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
-- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
-- https://thimble.mozilla.org 
-
-### Assignment
-Make a travel wish list. The webpage should use the proper HTML syntax we reviewed in class. The webpage should have at least three cities. Each list item should have a sub header, an image, and a link to the wikipedia page of the city.
 
 ## Class 2
 
-### Question
-How does CSS work (selectors, weight)? What is the box model? How does CSS positioning work?
+[Link](https://github.com/ADDA-HTML/Lessons/blob/master/class-2.md)
 
-### Process
-Review file structure. Review modern CSS (link file, CSS2, CSS3, email, browser quirks). Review selector weights and styles. Go over positioning and display. Review basic font qualities (serif/san-serif, weights, style, decoration). Review differences in image type (jpg, png, gif). Review pseudo-elements (:hover, :before, :after, :content).
-
-### Resources
-- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
-- https://developer.mozilla.org/en-US/docs/Web/CSS 
-- https://css-tricks.com/almanac/
-- https://codepen.io/
-- http://adamschwartz.co/magic-of-css/ 
 
 ##Class 3
 ### Question
