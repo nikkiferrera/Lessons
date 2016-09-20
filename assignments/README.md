@@ -6,8 +6,8 @@
 - If this is your first submission, make a folder with your first and last name. To do this, type your name in the text box above and add a `/` afterwards.
 ![](https://github.com/ADDA-HTML/Lessons/blob/master/assignments/2namefile.png?raw=true)
 
-- Otherwise, put your assignments in a folder based on the class number. Ie. `class1/`, `class/1`. 
+- Otherwise, put your assignments in a folder based on the class number. Ie. `lennybogdonoff/class1/`, `lennybogdonoff/class2/`. 
 ![](https://github.com/ADDA-HTML/Lessons/blob/master/assignments/3folder.png?raw=true)
 
-- Submit your homework by creating a file that corresponds with your assignment. Most assignments will be called `index.html`. 
+- Submit your homework by creating a file that corresponds with your assignment. Most assignments will be called `lennybogdonoff/class1/index.html`. 
 ![](https://github.com/ADDA-HTML/Lessons/blob/master/assignments/4namefile.png?raw=true)
