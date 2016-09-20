@@ -1,5 +1,8 @@
 ## Class 1
 
+### Presentation
+[Google Slide Link](https://docs.google.com/presentation/d/1u1aTn2EKhF1iKVvPL_cPDd4b1He1faBEMpdGcc6K404/edit?usp=sharing)
+
 ### Question
 What is HTML and CSS? What does it look like? How do I understand it?
 
