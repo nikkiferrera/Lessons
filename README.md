@@ -14,6 +14,10 @@ Each class will be focused on answering a question about HTML/CSS. By the end of
 
 ## Assignments
 
+[Submit your weekly projects here](https://github.com/ADDA-HTML/Lessons/tree/master/assignments)
+
+[Instructions on submiting homework](https://docs.google.com/document/d/1gAi3qJ0FS5iMCcfiSu3RtIyKm-pKR8u9rLIitsiFFqE/edit?usp=sharing)
+
 - Weekly Projects
 - Final Assignment: Make a web site
 
