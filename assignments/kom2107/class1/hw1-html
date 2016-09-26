@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="styles/style.css" rel="stylesheet" type="text/css">
+<meta charset= "utf-8">
+<title>My Test Page</title>
+</head>
+<body>
+
+<h1>Be Bold or Italic, Never Regular</h1>
+<h4>Henn Kim</h4>
+
+<img src="images/beboldoritalic-hennkim.jpeg" alt="My Test Image">
+
+<p>Other Ones:</p>
+
+<ul>
+<li><a href="https://www.instagram.com/p/BJxUTcQB3NS/?taken-by=fwdead"> Cash Only</a>, Famous When Dead</li>
+<li><a href="https://www.instagram.com/p/BB95-HBv9TI/?taken-by=laramimiau">Selfie Queen</a>, Lara Carvajal</li>
+<li><a href="http://artxsmart.tumblr.com/post/66080521301/her-mirror-after-rokeby-venus-by-diego"> Art X Smart</a>, Kim Dong-kyu</li>
+</ul>
+
+<p> I know this wasn't exactly the assignment but I am not going to be in class tomorrow and figured I might as well try to do some extra things. </p>
+
+</body>
+</html>
